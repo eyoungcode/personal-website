@@ -4,13 +4,14 @@
 
 @media all and (min-width: 480px) and (max-width: 768px) { }
 
+@media all and (max-width: 480px) { }
+
 .img-title {
 	position: absolute;
-	color: lightgoldenrodyellow;
+	color: white;
 	text-align: center;
 	left: 2%;
 	right: 0;
-	bottom: 24%;
+	top: 14%;
 	letter-spacing: 3px;
-
 }
